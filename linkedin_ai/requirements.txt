@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 streamlit
+pandas
+matplotlib
+seaborn
 transformers
 torch
-pandas
-=======
-streamlit
-transformers
-torch
-pandas
->>>>>>> a14f5861566c0df10f127ad7ff5fae44a2b7d299
+
